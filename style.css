@@ -1,3 +1,5 @@
 body {
     background-color: aqua;
+    border-color: bisque;
+    border-style: dotted;
 }
